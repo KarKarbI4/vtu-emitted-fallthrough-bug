@@ -4,8 +4,8 @@ Minimal reproduction project for @vue/test-utils issue https://github.com/vuejs/
 
 ## Requirements
 
-1. Node v16.14.2 -> [Install](https://nodejs.org/en/download/package-manager/)
-2. pnpm v7.0.0-rc.3 -> [Install](https://pnpm.io/installation)
+1. node v16.14.2 -> [install](https://nodejs.org/en/download/package-manager/)
+2. pnpm v7.0.0-rc.3 -> [install](https://pnpm.io/installation)
 
 ## Launch
 

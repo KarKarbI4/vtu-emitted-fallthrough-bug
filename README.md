@@ -1,6 +1,6 @@
 # vtu-emitted-fallthrough-bug
 
-Minimal reproduction project for @vue/test-utils bug
+Minimal reproduction project for @vue/test-utils issue https://github.com/vuejs/test-utils/issues/1509
 
 ## Requirements
 
